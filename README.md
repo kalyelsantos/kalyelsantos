@@ -18,15 +18,15 @@
 ### 🛠️ Main Skills
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4F97&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4F97&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### ⚙️ Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=0078D6&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 ---
 
